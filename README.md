@@ -1,3 +1,7 @@
+# DEPRECATED
+
+This repo is no longer publicly supported.
+
 # Shutterstock
 
 A gem for interfacing with the shutterstock API. See the documentation
