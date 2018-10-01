@@ -1,6 +1,6 @@
 # DEPRECATED
 
-This repo is no longer publicly supported.
+This api is no longer supported
 
 # Shutterstock
 
